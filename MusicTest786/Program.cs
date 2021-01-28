@@ -9,9 +9,10 @@ namespace MusicTest786
     {
         static void Main(string[] args)
         {    
-            var soundLocation = Environment.CurrentDirectory + @"C:\test\KakashiFightSongUP3.wav"; 
-            SoundPlayer player = new SoundPlayer(@"C:\test\KakashiFightSongUP3.wav");
+            var soundLocation = Environment.CurrentDirectory + @"..\..\..\..\WavKakashiFightSongUP3.wav"; 
+            SoundPlayer player = new SoundPlayer(@"..\..\..\..\KakashiFightSongUP3.wav");
             player.PlayLooping();
+            // @"..\..\..\..\HiddenLeafVillage.Wav
             // player.Play();
             // player.LoadAsync();
             // ”” söta för tal senare
