@@ -33,9 +33,11 @@ namespace MusicTest786
                               "\n\t Three Akatsuku are attacking and they have you cornered. ");
             Console.WriteLine("");
             Console.WriteLine("\t Beeing a true ninjutsu hero you are draw your {player.weapon} and counter attack. \n" +
-                              "\t The closest attacker throws a {kastkniv} at your heart but you use your chakra and redirect it into on of the other dirty Akatsu scumbag! ");
+                              "\t The closest attacker throws a {kastkniv} aimed at your heart! \n" +
+                              "\t You use your chakra and redirect the knife into on of the other dirty Akatsu scumbag's! ");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t This fight did not last longer then a few minutes, they where weak and in your way, now they are all very very dead…");
+            Console.WriteLine("\t This fight did not last longer then a few minutes. They where weak and in your way. " + 
+                              "\t Now they are all very very dead…");
             Console.WriteLine("\t ");
             Console.WriteLine("\t You sense Hanare is close and you go into a dark side tunnel and your senses tells you that she is not alone, \n" +
                              "\t someone with the ability to hide his true powers. \n" + 
