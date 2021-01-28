@@ -39,9 +39,14 @@ namespace MusicTest786
             Console.WriteLine("\t This fight did not last longer then a few minutes. They where weak and in your way. \n" + 
                               "\t Now they are all very very dead...");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t You sense Hanare is close and you go into a dark side tunnel and your senses tells you that she is not alone, \n" +
-                             "\t someone with the ability to hide his true powers. \n" + 
-                             "\t Who is this and how can he block your senses? You feel the person and Hanare is just around the next corner. \n" +
+            Console.WriteLine("\t You sense Hanare is close and you walk into one of the dark side tunnels...");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t Your senses tells you that Hanare is not alone! \n" +
+                             "\t Someone with the ability to hide his true powers are also present.");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t Who is this, and how can he block your senses? \n");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t You feel the person and Hanare is just around the next corner. \n" +
                              "\t As you draw your {player.weapon} and walk around the corner you se Hanare and him, HIM...");
             Console.WriteLine("\t ");
             Console.WriteLine("\t This is impossible... He is dead, you know you killed him and every last member of their Clan, this cant be!?!\n" +
