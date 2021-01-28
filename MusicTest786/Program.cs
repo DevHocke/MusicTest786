@@ -16,7 +16,7 @@ namespace MusicTest786
             // player.LoadAsync();
             // ”” söta för tal senare
             Console.WriteLine("\t After fighting BossensNamn for hours you finally wear him down and kill him. \n" +
-                              "\t As you dry the { BossensNamn} blood of your { player.weapon.namn} on his now torn up Flack jacket" +
+                              "\t As you dry the {BossensNamn} blood of your {player.weapon.namn} on his now torn up Flack jacket" +
                               "\n\t" +
                               "\n\t You hear faint sounds further into the cave and you sense it must be Hanare!\n " + 
                               "\n\t As you walked further into the huge cave system Hanares sounds get louder.");
@@ -30,7 +30,7 @@ namespace MusicTest786
             Console.WriteLine("");
             Console.WriteLine("\t Beeing a true ninjutsu hero you are draw your {player.weapon} and counter attack. \n" +
                               "\t The closest attacker throws a {kastkniv} aimed at your heart! \n" +
-                              "\t You use your chakra and redirect the knife into on of the other dirty Akatsu scumbag's! ");
+                              "\n\t You use your chakra and redirect the knife into on of the other dirty Akatsu scumbag's! ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t This fight did not last longer then a few minutes. They where weak and in your way. \n" + 
                               "\t Now they are all very very dead...");
@@ -66,7 +66,7 @@ namespace MusicTest786
             Console.WriteLine("\t Well, if this how he wants to play, fine by me! \n" +
                               "\t -“You shall meet your own powers you fool!“ \n" +
                               "\t You remove your forhead protector and use your sharingan! \n" +
-                              "\t Your insight in Kakuzu's powers makes you block his senses \n" + 
+                              "\n\t Your insight in Kakuzu's powers makes you block his senses \n" + 
                               "\t and he has no idea that you are approaching him. Until its to late... ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t ");
@@ -77,25 +77,35 @@ namespace MusicTest786
             Console.WriteLine("\t As you come to your senses you rush to Hanare and untie the ropes around her hands and neck \n" +
                               "\t she is still unconscious and very very weak. \n " +
                               "\t without a second of rest you pick Hanare up and carry her all the way back to The Hidden Leaf Village.");
-            Console.WriteLine("\t As you approach the village, you scream for help.");
-            Console.WriteLine("\t Tsunade meets you infront of Konoha Hospital and instantly brings Hanare in for care... " +
-                              "\t ");
-            Console.WriteLine("\t You have waited hours for the medical-nin to heal Hanare when you suddenly hear Hanares voice.");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\n\t As you approach the village, you scream for help.");
+            Console.WriteLine("\t Tsunade meets you infront of Konoha Hospital and instantly brings Hanare in for care...");
+            Console.WriteLine("\n\t You have waited hours for the medical-nin to heal Hanare when you suddenly hear Hanares voice.");
             Console.WriteLine("\t -“Thank you {player.name}! You rescued me“ \n" +
                               "\t -“I knew you would find me, THANK YOU HERO!”");
-            Console.WriteLine("\t The peace back in The Hidden Leaf Village");
             Console.WriteLine("\t ");
+            Console.WriteLine("\t The peace is back in The Hidden Leaf Village");
             Console.WriteLine("\t The End...");
-
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t CREDITS:");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Robin Kakashi Efternamn");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Campus Mölndal Who made this possible");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Every cool person who has shared music online");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Youtube fabvl – Kakashi Rap Song Athousan.");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Youtube suferas - Naruto - Sadness and Sorrow 8 Bit");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Youtube Otaku Bits - Naruto Shippuden opening 3 - Blue Bird (8bit)");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Youtube Musikage - Naruto Opening 2 - Haruka Kanata 8-bit NES Remix");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t Youtube 8 Bit Music Worl - Naruto - The Raising Fighting Spirit (8 bit)");
+            Console.WriteLine("\t ");
             Console.WriteLine("\t CREATORS");
             Console.WriteLine("\t Daudi - David Ström");
             Console.WriteLine("\t Hocke - Håkan Eriksson");
