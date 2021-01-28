@@ -49,15 +49,16 @@ namespace MusicTest786
             Console.WriteLine("\t You feel the person and Hanare is just around the next corner. \n" +
                              "\t As you draw your {player.weapon} and walk around the corner you se Hanare and him, HIM...");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t This is impossible... He is dead, you know you killed him and every last member of their Clan, this cant be!?!\n" +
-                             "\t Kakuzu's alive?");
+            Console.WriteLine("\t This is impossible... He is dead, you know you killed him and every last member of their Clan. \n" + 
+                              "\t this cant be!?! Kakuzu's alive?");
             Console.WriteLine("\t ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t Kakuzu laughs like a mad man when he sees your confusion -“HA HA HA HA“ \n" +
                               "\t -“Did you not know that I teamed up with Orihime Inoue years ago? YOU FOOL!“ \n" +
-                              "\t -“She healed me not more then 30 minutes after you left! She is incredible my dear Orihime... “");
+                              "\t -“She healed me not more then 30 minutes after you left! She truly is incredible my dear Orihime... “");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t “You should have killed her when you had the chance, instead I will kill someone near and dear to you and make you watch me do it before I come back and deal with you!” ");
+            Console.WriteLine("\t -“You should have killed her when you had the chance!“ \n" + 
+                              "\t -“Instead I will now kill someone near and dear to you! I want you to watch me kill Hanare before I come back and kill you to!” ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t “GRAB HIM!!!“  You are suddenly overwhelmed buy enemies pulling you down towards the ground, where did they come from!? Kakuzu must have used his {ability}to block my senses!");
             Console.WriteLine("\t ");
