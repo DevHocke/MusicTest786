@@ -66,20 +66,24 @@ namespace MusicTest786
             Console.WriteLine("\t Well, if this how he wants to play, fine by me! \n" +
                               "\t -“You shall meet your own powers you fool!“ \n" +
                               "\t You remove your forhead protector and use your sharingan! \n" +
-                              "\t Your insight in Kakuzu's powers makes you block his senses \t" + 
+                              "\t Your insight in Kakuzu's powers makes you block his senses \n" + 
                               "\t and he has no idea that you are approaching him. Until its to late... ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t The rage {players.name} unleashed upon Kakuzu has never been seen from any Shinobi \n" + 
-                              "\t A true Shinobi are known to keep their cool even when angry! \n" + 
-                              "\t The tale of this fight will live on as a tale forever...");
+            Console.WriteLine("\t “The rage {players.name} unleashed upon Kakuzu has never been seen from any Shinobi \n" + 
+                              "\t A true Shinobi are known to keep their cool even when angry! \n" +
+                              "\t The tale of this fight will live on as a tale forever...“");
             Console.WriteLine("\t ");
             Console.WriteLine("\t As you come to your senses you rush to Hanare and untie the ropes around her hands and neck \n" +
-                              "\t she is still medvetslös (tilt...)  and very weak, you pick her up and carry her all the way back to The Hidden Leaf Village without a second of rest.");
-            Console.WriteLine("\t ");
-            Console.WriteLine("\t You scream for help and Tsunade meets you in the door of the Konoha Hospital. You have waited hours for the medical-nin to heal Hanare when you suddenly hear Hanares voice.");
-            Console.WriteLine("\t ");
-            Console.WriteLine("\t “Thank you {player.name}! You rescued me, I knew you would find me, ”THANK YOU!” The peace back in The Hidden Leaf Village ");
+                              "\t she is still unconscious and very very weak. \n " +
+                              "\t without a second of rest you pick Hanare up and carry her all the way back to The Hidden Leaf Village.");
+            Console.WriteLine("\t As you approach the village, you scream for help.");
+            Console.WriteLine("\t Tsunade meets you infront of Konoha Hospital and instantly brings Hanare in for care... " +
+                              "\t ");
+            Console.WriteLine("\t You have waited hours for the medical-nin to heal Hanare when you suddenly hear Hanares voice.");
+            Console.WriteLine("\t -“Thank you {player.name}! You rescued me“ \n" +
+                              "\t -“I knew you would find me, THANK YOU HERO!”");
+            Console.WriteLine("\t The peace back in The Hidden Leaf Village");
             Console.WriteLine("\t ");
             Console.WriteLine("\t The End...");
 
