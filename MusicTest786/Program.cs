@@ -26,8 +26,10 @@ namespace MusicTest786
             Console.WriteLine("");
             Console.WriteLine("\t As you walked further into the huge cave system her sounds get louder, you are closing in on her.");
             Console.WriteLine("");
-            Console.WriteLine("\t You sense danger and instinctivly make a Shinobi backflip managing to dodge the sword that was beeing aimed at your back! \n" +
-                              "\t You knew it was the filty backstabbing  Akatsuku Clan, nobody else would ever try to kill a Shinobi from behinde." +
+            Console.WriteLine("\t You sense danger and instinctivly make a Shinobi backflip \n" +
+                               "\t You manage to dodge the sword that was beeing aimed at your back! \n" +
+                              "\n\t You knew it was the filty backstabbing  Akatsuku Clan! \n" +
+                              "\n\t nobody else would ever try to kill a Shinobi from behinde." +
                               "\n\t Three Akatsuku are attacking and they have you cornered. ");
             Console.WriteLine("");
             Console.WriteLine("\t Beeing a true ninjutsu hero you are draw your {player.weapon} and counter attack. \n" +
