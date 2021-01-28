@@ -19,17 +19,13 @@ namespace MusicTest786
                               "\t As you dry the { BossensNamn} blood of your { player.weapon.namn} on his now torn up Flack jacket" +
                               "\n\t" +
                               "\n\t You hear faint sounds further into the cave and you sense it must be Hanare!\n " + 
-                              "\n\t As you walked further into the huge cave system her sounds get louder, you are closing in on her.");
-
-            Console.WriteLine("\t As you dry the {BossensNamn} blood of your {player.weapon.namn}on his dead corpses torn up");
-            Console.WriteLine("\t Flack jacket. You hear faint sounds further into the cave and you sense it must be Hanare!");
-            Console.WriteLine("");
-            Console.WriteLine("\t As you walked further into the huge cave system her sounds get louder, you are closing in on her.");
-            Console.WriteLine("");
-            Console.WriteLine("\t You sense danger and instinctivly make a Shinobi backflip \n" +
-                               "\t You manage to dodge the sword that was beeing aimed at your back! \n" +
-                              "\n\t You knew it was the filty backstabbing  Akatsuku Clan! \n" +
-                              "\n\t nobody else would ever try to kill a Shinobi from behinde." +
+                              "\n\t As you walked further into the huge cave system Hanares sounds get louder.");
+            Console.WriteLine("\t You are closing in on her!");
+            Console.WriteLine("\t As you walk further into the cave towards where you last heard Hanare \n" +
+                              "\t You sense danger and instinctivly make a Shinobi backflip \n" +
+                              "\n\t You manage to dodge the sword that was beeing aimed at your back! \n" +
+                              "\n\t You knew it! It is the filty backstabbing Akatsuku Clan! \n" +
+                              "\n\t Nobody else would ever try to kill a Shinobi from behinde." +
                               "\n\t Three Akatsuku are attacking and they have you cornered. ");
             Console.WriteLine("");
             Console.WriteLine("\t Beeing a true ninjutsu hero you are draw your {player.weapon} and counter attack. \n" +
@@ -46,7 +42,7 @@ namespace MusicTest786
             Console.WriteLine("\t ");
             Console.WriteLine("\t Who is this, and how can he block your senses? \n");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t You feel the person and Hanare is just around the next corner. \n" +
+            Console.WriteLine("\t You feel that the enemy and Hanare is just around the next corner. \n" +
                              "\t As you draw your {player.weapon} and walk around the corner you se Hanare and him, HIM...");
             Console.WriteLine("\t ");
             Console.WriteLine("\t This is impossible... He is dead, you know you killed him and every last member of their Clan. \n" + 
@@ -55,7 +51,8 @@ namespace MusicTest786
             Console.WriteLine("\t ");
             Console.WriteLine("\t Kakuzu laughs like a mad man when he sees your confusion -“HA HA HA HA“ \n" +
                               "\t -“Did you not know that I teamed up with Orihime Inoue years ago? YOU FOOL!“ \n" +
-                              "\t -“She healed me not more then 30 minutes after you left! She truly is incredible my dear Orihime... “");
+                              "\t -“Orihime brought me back from the dead not more then 30 minutes after you left! \n" +
+                              "\t -“She truly is special my dear Orihime...“");
             Console.WriteLine("\t ");
             Console.WriteLine("\t -“You should have killed her when you had the chance!“ \n" + 
                               "\t -“Instead I will now kill someone near and dear to you! \n" +
