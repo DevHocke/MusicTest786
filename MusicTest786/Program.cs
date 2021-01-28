@@ -58,15 +58,27 @@ namespace MusicTest786
                               "\t -“She healed me not more then 30 minutes after you left! She truly is incredible my dear Orihime... “");
             Console.WriteLine("\t ");
             Console.WriteLine("\t -“You should have killed her when you had the chance!“ \n" + 
-                              "\t -“Instead I will now kill someone near and dear to you! I want you to watch me kill Hanare before I come back and kill you to!” ");
+                              "\t -“Instead I will now kill someone near and dear to you! \n" +
+                              "\t -“I want you to watch me kill Hanare before I come back and kill you to!” ");
+            Console.WriteLine("\t -“GRAB HIM!!!“");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t “GRAB HIM!!!“  You are suddenly overwhelmed buy enemies pulling you down towards the ground, where did they come from!? Kakuzu must have used his {ability}to block my senses!");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t Well, if this how he wants to play, fine by me! You shall meet your own powers you fool, you remove your forhead protector and use your sharingan, your insight in his powers makes you block his senses that you are approaching him until its to late. ");
+            Console.WriteLine("\t   You are suddenly overwhelmed from behinde by enemies pulling you down towards the ground, \n" +
+                              "\t where did they come from!? Kakuzu must have used his {ability} to block my senses!");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t The fury {players.name} unleashed upon Kakuzu has never been seen from any Shinobi who are know to keep their cool even when angry. The tale of this fight will live on forever…");
+            Console.WriteLine("\t Well, if this how he wants to play, fine by me! \n" +
+                              "\t You shall meet your own powers you fool, you remove your forhead protector and use your sharingan! \n" +
+                              "\t Your insight in his powers makes you block his senses that you are approaching him until its to late... ");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t As you come to your senses you rush to Hanare and untie the ropes around her hands and neck, she is still medvetslös (tilt...)  and very weak, you pick her up and carry her all the way back to The Hidden Leaf Village without a second of rest.");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t The rage {players.name} unleashed upon Kakuzu has never been seen from any Shinobi \n" + 
+                              "\t A true Shinobi are known to keep their cool even when angry! \n" + 
+                              "\t The tale of this fight will live on as a tale forever...");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t As you come to your senses you rush to Hanare and untie the ropes around her hands and neck \n" +
+                              "\t she is still medvetslös (tilt...)  and very weak, you pick her up and carry her all the way back to The Hidden Leaf Village without a second of rest.");
             Console.WriteLine("\t ");
             Console.WriteLine("\t You scream for help and Tsunade meets you in the door of the Konoha Hospital. You have waited hours for the medical-nin to heal Hanare when you suddenly hear Hanares voice.");
             Console.WriteLine("\t ");
