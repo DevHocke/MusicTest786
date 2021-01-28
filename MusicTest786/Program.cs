@@ -60,14 +60,14 @@ namespace MusicTest786
             Console.WriteLine("\t -“GRAB HIM!!!“");
             Console.WriteLine("\t ");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t   You are suddenly overwhelmed from behinde by enemies pulling you down towards the ground, \n" +
+            Console.WriteLine("\t You are suddenly overwhelmed from behinde by enemies pulling you down towards the ground, \n" +
                               "\t where did they come from!? Kakuzu must have used his {ability} to block my senses!");
             Console.WriteLine("\t ");
             Console.WriteLine("\t Well, if this how he wants to play, fine by me! \n" +
-                              "\t You shall meet your own powers you fool, you remove your forhead protector and use your sharingan! \n" +
-                              "\t Your insight in his powers makes you block his senses that you are approaching him until its to late... ");
-            Console.WriteLine("\t ");
-            Console.WriteLine("\t ");
+                              "\t -“You shall meet your own powers you fool!“ \n" +
+                              "\t You remove your forhead protector and use your sharingan! \n" +
+                              "\t Your insight in Kakuzu's powers makes you block his senses \t" + 
+                              "\t and he has no idea that you are approaching him. Until its to late... ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t ");
             Console.WriteLine("\t The rage {players.name} unleashed upon Kakuzu has never been seen from any Shinobi \n" + 
