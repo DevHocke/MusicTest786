@@ -14,7 +14,7 @@ namespace MusicTest786
             player.PlayLooping();
             // player.Play();
             // player.LoadAsync();
-
+            // ”” söta för tal senare
             Console.WriteLine("\t After fighting BossensNamn for hours you finally wear him down and kill him. \n" +
                               "\t As you dry the { BossensNamn} blood of your { player.weapon.namn} on his now torn up Flack jacket" +
                               "\n\t" +
@@ -36,16 +36,21 @@ namespace MusicTest786
                               "\t The closest attacker throws a {kastkniv} aimed at your heart! \n" +
                               "\t You use your chakra and redirect the knife into on of the other dirty Akatsu scumbag's! ");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t This fight did not last longer then a few minutes. They where weak and in your way. " + 
-                              "\t Now they are all very very dead…");
+            Console.WriteLine("\t This fight did not last longer then a few minutes. They where weak and in your way. \n" + 
+                              "\t Now they are all very very dead...");
             Console.WriteLine("\t ");
             Console.WriteLine("\t You sense Hanare is close and you go into a dark side tunnel and your senses tells you that she is not alone, \n" +
                              "\t someone with the ability to hide his true powers. \n" + 
-                             "\tWho is this and how can he block your senses? You feel the person and Hanare is just around the next corner. As you draw your { player.weapon} and walk around the corner you se Hanare and him, HIM….");
+                             "\t Who is this and how can he block your senses? You feel the person and Hanare is just around the next corner. \n" +
+                             "\t As you draw your {player.weapon} and walk around the corner you se Hanare and him, HIM...");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t This is impossible, he is dead. You know you killed him and every last member of their Clan, this cant be!?! Kakuzu's alive?");
+            Console.WriteLine("\t This is impossible... He is dead, you know you killed him and every last member of their Clan, this cant be!?!\n" +
+                             "\t Kakuzu's alive?");
             Console.WriteLine("\t ");
-            Console.WriteLine("\t Kakuzu laughs like a mad man when he sees your confusion “HA HA HA HA" + " Did you not know I teamed up with Orihime Inoue years ago, she healed me not more then 30 minutes since you left.She is incredible my dear Orihime! “");
+            Console.WriteLine("\t ");
+            Console.WriteLine("\t Kakuzu laughs like a mad man when he sees your confusion -“HA HA HA HA“ \n" +
+                              "\t -“Did you not know that I teamed up with Orihime Inoue years ago? YOU FOOL!“ \n" +
+                              "\t -“She healed me not more then 30 minutes after you left! She is incredible my dear Orihime... “");
             Console.WriteLine("\t ");
             Console.WriteLine("\t “You should have killed her when you had the chance, instead I will kill someone near and dear to you and make you watch me do it before I come back and deal with you!” ");
             Console.WriteLine("\t ");
